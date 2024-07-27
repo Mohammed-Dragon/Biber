@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073846267543",
+    "project_id": "biber-169aa",
+    "storage_bucket": "biber-169aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073846267543:android:fd4ed29949a3d155e143d2",
+        "android_client_info": {
+          "package_name": "com.example.dragon_work"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk1UDxJgGiUNpaUriv7wuWMc0fHQRJrVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
